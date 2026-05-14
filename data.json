@@ -147,6 +147,30 @@
   ],
   "inProduction": [
     {
+      "id": "po_pe324bx5w1hjx",
+      "poNumber": "PO 08",
+      "supplier": "test",
+      "productionStart": "",
+      "promiseDate": "",
+      "actualProductionEndDate": "",
+      "productionStatus": "ontrack",
+      "currency": "USD",
+      "remarks": "",
+      "lineItems": []
+    },
+    {
+      "id": "po_ghri4zfdjyy34",
+      "poNumber": "PO 07",
+      "supplier": "test",
+      "productionStart": "",
+      "promiseDate": "",
+      "actualProductionEndDate": "",
+      "productionStatus": "ontrack",
+      "currency": "USD",
+      "remarks": "",
+      "lineItems": []
+    },
+    {
       "id": "po_o8cyvy4fkolkf",
       "poNumber": "PO 01",
       "supplier": "GZ Hongshun Biotech",
